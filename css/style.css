@@ -491,6 +491,10 @@ footer{
     margin-top: 5px;
     border-radius: 5px;
 }
+.footer-content li{
+    list-style: none;
+    margin-bottom: 8px;
+}
 .footer-content a{
     color: #fff;
     text-decoration: none;
